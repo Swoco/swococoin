@@ -1,0 +1,9 @@
+Building SWOCO
+
+See doc/readme-qt.rst for instructions on building SWOCO QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SWOCO.
+
+See doc/build-*.txt for instructions on building swocod,
+the intended-for-services, no-graphical-interface, reference
+implementation of SWOCO.
